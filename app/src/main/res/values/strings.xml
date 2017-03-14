@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">遵义掌上警务</string>
+
+    <string name="home">首页</string>
+    <string name="hot">热卖</string>
+    <string name="catagory">服务</string>
+    <string name="cart">购物车</string>
+    <string name="mine">个人中心</string>
+    <string name="confirm">确定</string>
+</resources>
